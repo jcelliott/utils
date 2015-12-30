@@ -29,3 +29,10 @@ Usage looks like this:
 ```
 
 Install with `go get github.com/jcelliott/utils/duration-fmt`
+
+## testserver
+
+testserver starts an http server listening on port 8000 that prints debugging
+information about the requests it receives.
+
+Install with `go get github.com/jcelliott/utils/testserver`
